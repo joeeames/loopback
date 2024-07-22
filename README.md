@@ -47,11 +47,11 @@ LoopBack 3.x has reached End-of-Life.
 
 This module adopts the [Module Long Term Support (LTS)](http://github.com/CloudNativeJS/ModuleLTS) policy, with the following End Of Life (EOL) dates:
 
-| Version    | Status          | Published | EOL                  |
-| ---------- | --------------- | --------- | -------------------- |
-| LoopBack 4 | Current         | Oct 2018  | Apr 2023 _(minimum)_ |
-| LoopBack 3 | End-of-Life     | Dec 2016  | Dec 2020             |
-| LoopBack 2 | End-of-Life     | Jul 2014  | Apr 2019             |
+| Version    | Status          | Published | EOL                  | Commercial Support   |
+| ---------- | --------------- | --------- | -------------------- | -------------------- |
+| LoopBack 4 | Current         | Oct 2018  | Apr 2023 _(minimum)_ |                       |
+| LoopBack 3 | End-of-Life     | Dec 2016  | Dec 2020             | [available](https://loopback.io/doc/en/contrib/Long-term-support.html) |
+| LoopBack 2 | End-of-Life     | Jul 2014  | Apr 2019             | [available](https://loopback.io/doc/en/contrib/Long-term-support.html) |
 
 Learn more about our LTS plan in [docs](https://loopback.io/doc/en/contrib/Long-term-support.html).
 
